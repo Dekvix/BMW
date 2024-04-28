@@ -1,3 +1,6 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
 .Avto{
     position: relative;
     bottom: 40px;
@@ -12,20 +15,71 @@
     bottom: 40px;
     left: 80px;
     color: black;
-    border-bottom: 2px solid blue;
+    border-bottom: 3px solid blue;
     font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
     text-decoration: none;
+    padding: 41px;
 }
 .kart{
     width: 100%;
     height: 100%;
 }
 .mainn{
-    position: relative;
-    bottom: 430px;
-    left: 70px;
-    font-size: 50px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
 }
-
-
-
+.text{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.maintext{
+    text-align: left;
+    font-size: 19px;
+    padding: 20px;
+    font-family: inherit;   
+}
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-width: 180px;
+    min-height: 3.25rem;
+    cursor: pointer;
+    margin-bottom: 10px;
+    transition: background-color .25s ease;
+    border: 3px solid blue;
+    background-color: blue;
+    color: white;
+    font-size: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 0px 90px;
+}
+button:hover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-width: 180px;
+    min-height: 3.25rem;
+    cursor: pointer;
+    margin-bottom: 10px;
+    transition: background-color .25s ease;
+    border: 3px solid darkblue;
+    background-color: darkblue;
+    color: white;
+    font-size: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 0px 90px;
+}
+.buttonimg{
+position: relative;
+left: 13px;
+top: 40px;
+}
+h2{
+    padding-top: 30px;
+    font-size: 30px;
+}
