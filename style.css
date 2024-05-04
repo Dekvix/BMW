@@ -83,3 +83,27 @@ h2{
     padding-top: 30px;
     font-size: 30px;
 }
+.posilani{
+    text-decoration: none;
+    color: black;
+}
+.posilani:hover{
+    text-decoration: none;
+    color: blue;
+ transition:ease-in 0.16s;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+}
+.NameAuto{
+    font-size: 30px;
+}
+.OneCar{
+width: 40%;
+}
+.TwoCar{
+    text-align: center;
+    position: relative;
+    bottom: 270px;
+}
