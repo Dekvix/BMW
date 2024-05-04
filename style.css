@@ -54,7 +54,7 @@ button{
     font-size: 15px;
     margin-left: 10px;
     margin-right: 10px;
-    padding: 0px 90px;
+    padding: 0px 60px;
 }
 button:hover{
     display: flex;
@@ -72,7 +72,7 @@ button:hover{
     font-size: 15px;
     margin-left: 10px;
     margin-right: 10px;
-    padding: 0px 90px;
+    padding: 0px 60px;
 }
 .buttonimg{
 position: relative;
@@ -99,11 +99,82 @@ h1{
 .NameAuto{
     font-size: 30px;
 }
-.OneCar{
-width: 40%;
-}
 .TwoCar{
     text-align: center;
     position: relative;
     bottom: 270px;
+}
+.FiveCar{
+    text-align: center;
+    position: relative;
+    bottom: 270px;
+}
+.SixAuto{
+    text-align: right;
+    position: relative;
+    bottom: 535px;    
+}
+.ChapterThree{
+    position: relative;
+    bottom: 780px;
+}
+.ChapterTwo{
+    position: relative;
+    bottom: 270px;
+}
+.ChapterFour{
+    position: relative;
+    bottom: 720px;
+}
+.ChapterFive{
+    position: relative;
+    bottom: 680px; 
+}
+.SevenAuto{
+    text-align: center;
+    position: relative;
+    bottom: 250px;
+}
+.EightAuto{
+    text-align: right;
+    position: relative;
+    bottom: 510px;
+}
+.NineAuto{
+    position: relative;
+    bottom: 1200px; 
+}
+.ChapterSix{
+    position: relative;
+    bottom: 1200px;   
+}
+.ElevenAuto{
+    text-align: center;
+    position: relative;
+    bottom: 270px;
+}
+.TwoTenAuto{
+    text-align: right;
+    position: relative;
+    bottom: 540px; 
+}
+.ThreeTenAuto{
+    position: relative;
+    bottom: 540px;
+}
+.PriceText{
+    font-size: 16px;
+    opacity: 0.7;
+    position: relative;
+    bottom: 1700px;
+    left: 50px;
+}
+.buttontwo{
+position: relative;
+bottom: 1650px;
+}
+.TextProposition{
+    position: relative;
+    bottom: 1650px;
+    font-size: 35px;
 }
