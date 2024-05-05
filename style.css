@@ -177,4 +177,167 @@ bottom: 1650px;
     position: relative;
     bottom: 1650px;
     font-size: 35px;
+    left: 130px;
+}
+.RatingAuto{
+    position: relative;
+    bottom: 1650px;
+    font-size: 30px; 
+    left: 130px;
+}
+.ValueAuto{
+    position: relative;
+    bottom: 1650px;
+    font-size: 19px; 
+    left: 130px;
+}
+.OriginalWheels{
+    position: relative;
+    bottom: 1880px;
+    font-size: 28px; 
+    left: 840px;
+}
+.WinterWheels{
+    position: relative;
+    bottom: 1840px;
+    font-size: 19px; 
+    left: 840px;
+}
+.TwoLink{
+    text-decoration: none;
+    color: black; 
+    position: relative;
+    bottom: 1860px;
+    font-size: 16px; 
+    left: 840px;
+}
+.TwoLink:hover{
+    text-decoration: none;
+    color: blue; 
+    position: relative;
+    bottom: 1860px;
+    font-size: 16px; 
+    left: 840px;   
+    transition: ease-in 0.16s;
+}
+.ThreeLink{
+    text-decoration: none;
+    color: black; 
+    position: relative;
+    bottom: 1880px;
+    font-size: 16px; 
+    left: 130px;
+}
+.ThreeLink:hover{
+    text-decoration: none;
+    color: blue; 
+    position: relative;
+    bottom: 1880px;
+    font-size: 16px; 
+    left: 130px;   
+    transition: ease-in 0.16s;
+}
+.info{
+    color: black; 
+    position: relative;
+    bottom: 1860px;
+    font-size: 16px; 
+    left: 130px;   
+}
+.FindDiler{
+    background-color: rgb(216, 210, 210);
+    color: rgb(73, 73, 73);
+    height: 120px;
+    width: 80px;
+    text-decoration: none;
+    padding: 50px 70px;
+    bottom: 1760px;
+    left: 100px;
+    position: relative;
+}
+.FindDiler:hover{
+    background-color: rgb(189, 180, 180);
+    color: rgb(73, 73, 73);
+    height: 120px;
+    width: 80px;
+    text-decoration: none;
+    padding: 50px 70px;
+    bottom: 1760px;
+    left: 100px;
+    position: relative;                                                                              
+}
+.TestDrive{
+    background-color: rgb(216, 210, 210);
+    color: rgb(73, 73, 73);
+    height: 120px;
+    width: 80px;
+    text-decoration: none;
+    padding: 50px 90px;
+    bottom: 1760px;
+    left: 110px;
+    position: relative; 
+}
+.TestDrive:hover{
+    background-color: rgb(189, 180, 180);
+    color: rgb(73, 73, 73);
+    height: 120px;
+    width: 80px;
+    text-decoration: none;
+    padding: 50px 90px;
+    bottom: 1760px;
+    left: 110px;
+    position: relative;
+}
+.AutoSight{
+    background-color: rgb(216, 210, 210);
+    color: rgb(73, 73, 73);
+    height: 120px;
+    width: 80px;
+    text-decoration: none;
+    padding: 50px 70px;
+    bottom: 1760px;
+    left: 120px;
+    position: relative; 
+}
+.AutoSight:hover{
+    background-color: rgb(189, 180, 180);
+    color: rgb(73, 73, 73);
+    height: 120px;
+    width: 80px;
+    text-decoration: none;
+    padding: 50px 70px;
+    bottom: 1760px;
+    left: 120px;
+    position: relative;
+}
+.Configurator{
+    background-color: rgb(216, 210, 210);
+    color: rgb(73, 73, 73);
+    height: 120px;
+    width: 80px;
+    text-decoration: none;
+    padding: 50px 70px;
+    bottom: 1760px;
+    left: 130px;
+    position: relative; 
+}
+.Configurator:hover{
+    background-color: rgb(189, 180, 180);
+    color: rgb(73, 73, 73);
+    height: 120px;
+    width: 80px;
+    text-decoration: none;
+    padding: 50px 70px;
+    bottom: 1760px;
+    left: 130px;
+    position: relative;
+}
+.AllService{
+    position: relative;
+    left: 80px;
+}
+.Contact{
+    position: relative;
+bottom: 1650px;
+left: 200px;
 }
