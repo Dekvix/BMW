@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Avto{
+    position: relative;
+    bottom: 40px;
+    left: 80px;
+    color: grey;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    text-decoration: none;
+    padding-left: 20px;
+}
+.Avto:hover{
+    position: relative;
+    bottom: 40px;
+    left: 80px;
+    color: black;
+    border-bottom: 3px solid blue;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    text-decoration: none;
+    padding: 41px;
+}
