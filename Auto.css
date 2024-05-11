@@ -173,3 +173,45 @@ h1{
     position: relative;
     font-size: 55px;
 }
+.imgone{
+    height: 160px;
+    width: 260px;
+    position: relative;
+}
+.imgone:hover{
+    height: 170px;
+    width: 270px;
+    position: relative;
+    transition: ease-in 0.21s;
+}
+.FirstText{
+    position: relative;
+    left: 40px;
+    font-size: 20px;
+}
+.BMWM135{
+    position: relative;
+    height: 160px;
+    width: 260px;
+    left: 320px;
+    bottom: 110px;
+    font-size: 50px;
+}
+.TwoText{
+    position: relative;
+    left: 40px;
+    font-size: 20px;
+}
+.BMWM135:hover{
+    position: relative;
+    height: 170px;
+    width: 270px;
+    left: 320px;
+    bottom: 110px;
+    transition: ease-in 0.21s;
+}
+.NextText{
+    position: relative;
+    left: 40px;
+    font-size: 20px;
+}
