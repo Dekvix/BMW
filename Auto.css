@@ -162,13 +162,13 @@ h1{
     font-size: 20px;
 }
 .FirstAuto{
-    top: 110px;
+    top: 128px;
     left: 40px;
     position: relative;
     font-size: 40px;
 }
 .FirstAuto:hover{
-    top: 110px;
+    top: 128px;
     left: 40px;
     position: relative;
     font-size: 55px;
@@ -214,4 +214,99 @@ h1{
     position: relative;
     left: 40px;
     font-size: 20px;
+}
+.imgthree{
+height: 160px;
+width: 260px;
+position: relative;
+left: 40px;
+}
+.ThrText{
+position: relative;
+left: 40px;
+}
+.imgthree:hover{
+height: 170px;
+width: 270px;
+position: relative;
+left: 40px;
+transition: ease-in 0.21s;
+}
+.imgfour{
+height: 160px;
+width: 260px;
+position: relative;
+left: 310px;
+bottom: 260px;
+}
+.imgfour:hover{
+height: 170px;
+width: 270px;
+position: relative;
+left: 310px;
+bottom:272px;
+transition: ease-in 0.21s;
+}
+.FourText{
+  position: relative;
+left: 340px;
+bottom:250px ;  
+}
+.imgfive{
+height: 160px;
+width: 260px;
+position: relative;
+left: 560px;
+bottom: 518px;
+}
+.imgfive:hover{
+height: 170px;
+width: 270px;
+position: relative;
+left: 560px;
+bottom:518px;
+transition: ease-in 0.21s;
+}
+.FiveText{
+position: relative;
+left: 550px;
+bottom:508px ; 
+}
+.M235{
+height: 160px;
+width: 260px;
+position: relative;
+left: 790px;
+bottom: 770px;
+}
+.SixText{
+position: relative;
+top: 18px;
+}
+.M235:hover{
+height: 170px;
+width: 270px;
+position: relative;
+left: 790px;
+bottom: 770px;
+}
+.imgseven{
+ height: 200px;
+width: 310px;
+position: relative;
+left: 40px; 
+bottom: 650px; 
+}
+.imgseven:hover{
+ height: 210px;
+width: 320px;
+position: relative;
+left: 40px; 
+bottom: 650px; 
+transition: ease-in 0.21s;
+}
+.SevenText{
+    position: relative;
+    bottom: 646px;
+    left: 40px;
 }
