@@ -1,0 +1,681 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Avto{
+    position: relative;
+    bottom: 40px;
+    left: 80px;
+    color: grey;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    text-decoration: none;
+    padding-left: 20px;
+}
+.Avto:hover{
+    position: relative;
+    bottom: 40px;
+    left: 80px;
+    color: black;
+    border-bottom: 3px solid blue;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    text-decoration: none;
+    padding: 41px;
+}
+h1{
+    position: relative;
+    left: 100px;
+}
+.Filter{
+    position: relative;
+    left: 100px;
+    font-size: 25;
+    top: 10px;
+}
+.Plagin{
+    border: 1px solid grey;
+    background-color: white;
+    padding: 5px 20px;
+    position: relative;
+    left: 100px;
+    font-size: 20px;
+    color: grey;
+    top: 10px;
+}
+.Plagin:hover{
+    border: 1px solid black;
+    background-color: white;
+    padding: 5px 20px;
+    position: relative;
+    left: 100px;
+    font-size: 20px;
+    color: black;
+    top: 10px;
+    transition: ease-in 0.29s;
+}
+.Electro{
+    border: 1px solid grey;
+    background-color: white;
+    padding: 5px 20px;
+    position: relative;
+    left: 110px;
+    font-size: 20px;
+    color: grey;
+    top: 10px;
+}
+.Electro:hover{
+    border: 1px solid black;
+    background-color: white;
+    padding: 5px 20px;
+    position: relative;
+    left: 110px;
+    font-size: 20px;
+    color: black;
+    top: 10px;
+    transition: ease-in 0.29s;
+}
+.BMWM{
+    border: 1px solid grey;
+    background-color: white;
+    padding: 5px 20px;
+    position: relative;
+    left: 120px;
+    font-size: 20px;
+    color: grey;
+    top: 10px; 
+}
+.BMWM:hover{
+    border: 1px solid black;
+    background-color: white;
+    padding: 5px 20px;
+    position: relative;
+    left: 120px;
+    font-size: 20px;
+    color: black;
+    top: 10px;
+    transition: ease-in 0.29s; 
+}
+.BMWI{
+    border: 1px solid grey;
+    background-color: white;
+    padding: 5px 20px;
+    position: relative;
+    left: 130px;
+    font-size: 20px;
+    color: grey;
+    top: 10px; 
+}
+.BMWI:hover{
+    border: 1px solid black;
+    background-color: white;
+    padding: 5px 20px;
+    position: relative;
+    left: 130px;
+    font-size: 20px;
+    color: black;
+    top: 10px;
+    transition: ease-in 0.29s; 
+}
+.AllFilter{
+    text-decoration: none;
+    color: black; 
+    position: relative;
+    font-size: 16px;
+    top: 30px; 
+    left:100px;
+}
+.AllFilter:hover{
+    text-decoration: none;
+    color: grey; 
+    position: relative;
+    font-size: 16px;   
+    transition: ease-in 0.16s;
+    top: 30px;
+    left: 100px;
+}
+.Find{
+    font-size: 20px;
+    left: 100px;
+    top: 30px;
+    position: relative;
+}
+.Models{
+    position: relative;
+    top: 60px;
+    left: 80px;
+    color: grey;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    text-decoration: none;
+    padding-left: 20px;
+    padding: 10px;
+    font-size: 16px;
+}
+.Models:hover{
+    position: relative;
+    top: 60px;
+    left: 80px;
+    color: black;
+    border-bottom: 4px solid black;
+    font-family: bmwTypeNextWeb,Arial,Helvetica,sans-serif;
+    text-decoration: none;
+    font-size: 16px;
+}
+.NamesAuto{
+    font-size: 20px;
+}
+.FirstAuto{
+    top: 128px;
+    left: 40px;
+    position: relative;
+    font-size: 40px;
+}
+.FirstAuto:hover{
+    top: 128px;
+    left: 40px;
+    position: relative;
+    font-size: 55px;
+}
+.imgone{
+    height: 160px;
+    width: 260px;
+    position: relative;
+}
+.imgone:hover{
+    height: 170px;
+    width: 270px;
+    position: relative;
+    transition: ease-in 0.21s;
+}
+.FirstText{
+    position: relative;
+    left: 40px;
+    font-size: 20px;
+}
+.BMWM135{
+    position: relative;
+    height: 160px;
+    width: 260px;
+    left: 320px;
+    bottom: 110px;
+    font-size: 50px;
+}
+.TwoText{
+    position: relative;
+    left: 40px;
+    font-size: 20px;
+    top: 8px;
+}
+.NextText{
+    position: relative;
+    left: 40px;
+    font-size: 20px;
+}
+.imgthree{
+height: 160px;
+width: 260px;
+position: relative;
+left: 40px;
+}
+.ThrText{
+position: relative;
+left: 40px;
+}
+.imgthree:hover{
+height: 170px;
+width: 270px;
+position: relative;
+left: 40px;
+transition: ease-in 0.21s;
+}
+.imgfour{
+height: 160px;
+width: 260px;
+position: relative;
+left: 310px;
+bottom: 260px;
+}
+.imgfour:hover{
+height: 170px;
+width: 270px;
+position: relative;
+left: 310px;
+bottom:272px;
+transition: ease-in 0.21s;
+}
+.FourText{
+  position: relative;
+left: 340px;
+bottom:250px ;  
+}
+.imgfive{
+height: 160px;
+width: 260px;
+position: relative;
+left: 560px;
+bottom: 510px;
+}
+.imgfive:hover{
+height: 170px;
+width: 270px;
+position: relative;
+left: 560px;
+bottom:510px;
+transition: ease-in 0.21s;
+}
+.FiveText{
+position: relative;
+left: 550px;
+bottom:508px ; 
+}
+.M235{
+height: 160px;
+width: 260px;
+position: relative;
+left: 790px;
+bottom: 740px;
+}
+.SixText{
+position: relative;
+top: 3px;
+}
+.imgseven{
+ height: 200px;
+width: 310px;
+position: relative;
+left: 40px; 
+bottom: 650px; 
+}
+.imgseven:hover{
+ height: 210px;
+width: 320px;
+position: relative;
+left: 40px; 
+bottom: 650px; 
+transition: ease-in 0.21s;
+}
+.SevenText{
+    position: relative;
+    bottom: 646px;
+    left: 40px;
+}
+.imgeight{
+    height: 200px;
+    width: 310px;
+    position: relative;
+    left: 40px; 
+    bottom: 650px;
+}
+.GlText{
+    position: relative;
+    left: 40px;
+    bottom: 600px;
+    font-size: 20px;
+}
+.imgeight:hover{
+    height: 210px;
+    width: 320px;
+    position: relative;
+    left: 40px; 
+    bottom: 650px;
+    transition: ease-in 0.21s;
+}
+.imgnine{
+    height: 120px;
+    width: 300px;
+    position: relative;
+    left: 370px; 
+    bottom: 880px;
+}
+.imgnine:hover{
+    height: 130px;
+    width: 310px;
+    position: relative;
+    left: 370px; 
+    bottom: 880px;
+    transition: ease-in 0.21s;
+}
+.NineText{
+    position: relative;
+    left: 370px; 
+    bottom: 851px; 
+}
+.imgten{
+    height: 220px;
+    width: 330px;
+    position: relative;
+    left: 735px; 
+    bottom: 1155px;
+}
+.imgten:hover{
+    height: 230px;
+    width: 340px;
+    position: relative;
+    left: 735px; 
+    bottom: 1155px;
+    transition: ease-in 0.21s;
+}
+.TenText{
+    left: 738px; 
+    bottom: 1155px;
+    position: relative;
+}
+.imgeleven{
+    height: 190px;
+    width: 310px;
+    position: relative;
+    left: 1000px; 
+    bottom: 1430px; 
+}
+.imgeleven:hover{
+    height: 200px;
+    width: 320px;
+    position: relative;
+    left: 1000px; 
+    bottom: 1430px; 
+    transition: ease-in 0.21s;
+}
+.ElevenText{
+    position: relative;
+    left: 1000px; 
+    bottom: 1430px;    
+}
+.imgtwoten{
+    height: 160px;
+    width: 260px;
+    position: relative;
+    left: 40px; 
+    bottom: 1410px;   
+}
+.imgtwoten:hover{
+    height: 170px;
+    width: 270px;
+    position: relative;
+    left: 40px; 
+    bottom: 1410px; 
+    transition: ease-in 0.21s;  
+}
+.TwoTenText{
+    position: relative;
+    left: 40px; 
+    bottom: 1410px;   
+}
+.imgthrten{
+    height: 200px;
+    width: 300px;
+    position: relative;
+    left: 40px; 
+    bottom: 1350px;
+}
+.imgthrten:hover{
+    height: 210px;
+    width: 310px;
+    position: relative;
+    left: 40px; 
+    bottom: 1350px;
+    transition: ease-in 0.21s;
+}
+.ThreeTenText{
+    position: relative;
+    left: 40px; 
+    bottom: 1350px;  
+}
+.GllText{
+    position: relative;
+    left: 40px;
+    bottom: 1360px;
+    font-size: 20px;
+}
+.imgfourten{
+    height: 220px;
+    width: 350px;
+    position: relative;
+    left: 320px; 
+    bottom: 1660px; 
+}
+.imgfourten:hover{
+    height: 230px;
+    width: 360px;
+    position: relative;
+    left: 320px; 
+    bottom: 1660px; 
+    transition: ease-in 0.21s;
+}
+.FourTenText{
+    position: relative;
+    left: 345px; 
+    bottom: 1658px;
+}
+.imgfiveten{
+    height: 220px;
+    width: 350px;
+    position: relative;
+    left: 620px; 
+    bottom: 1958px; 
+}
+.imgfiveten:hover{
+    height: 230px;
+    width: 360px;
+    position: relative;
+    left: 620px; 
+    bottom: 1958px; 
+    transition: ease-in 0.21s;
+}
+.FiveTenText{
+    position: relative;
+    left: 620px; 
+    bottom: 1960px;
+}
+.imgsixten{
+    height: 220px;
+    width: 350px;
+    position: relative;
+    left: 930px; 
+    bottom: 2276px;
+}
+.imgsixten:hover{
+    height: 230px;
+    width: 360px;
+    position: relative;
+    left: 930px; 
+    bottom: 2276px;
+    transition: ease-in 0.21s;
+}
+.SixTenText{
+    position: relative;
+    left: 930px; 
+    bottom: 2264px;
+}
+.imgseventen{
+    height: 220px;
+    width: 350px;
+    position: relative;
+    left: 40px; 
+    bottom: 2276px;
+}
+.imgseventen:hover{
+    height: 230px;
+    width: 360px;
+    position: relative;
+    left: 40px; 
+    bottom: 2276px;
+    transition: ease-in 0.21s;
+}
+.SevenTenText{
+    position: relative;
+    left: 40px; 
+    bottom: 2276px;
+}
+.imgeightten{
+    height: 190px;
+    width: 320px;
+    position: relative;
+    left: 320px; 
+    bottom: 2556px;
+}
+.imgeightten:hover{
+    height: 200px;
+    width: 330px;
+    position: relative;
+    left: 320px; 
+    bottom: 2556px;
+    transition: ease-in 0.21s;
+}
+.EightTenText{
+    position: relative;
+    left: 330px; 
+    bottom: 2556px;
+}
+.imgnineten{
+    height: 240px;
+    width: 370px;
+    position: relative;
+    left: 580px; 
+    bottom: 2878px; 
+}
+.imgnineten:hover{
+    height: 250px;
+    width: 380px;
+    position: relative;
+    left: 580px; 
+    bottom: 2878px; 
+    transition: ease-in 0.21s;
+}
+.NineTenText{
+    position: relative;
+    left: 580px; 
+    bottom: 2878px;
+}
+.imgtwenty{
+    height: 140px;
+    width: 240px;
+    position: relative;
+    left: 40px; 
+    bottom: 2800px; 
+}
+.imgtwenty:hover{
+    height: 150px;
+    width: 250px;
+    position: relative;
+    left: 40px; 
+    bottom: 2800px; 
+    transition: ease-in 0.21s;
+}
+.TwentyText{
+    position: relative;
+    left: 40px; 
+    bottom: 2800px;
+}
+.GlllText{
+    position: relative;
+    left: 40px;
+    bottom: 2850px;
+    font-size: 20px;
+}
+.imgtwentyone{
+    height: 210px;
+    width: 340px;
+    position: relative;
+    left: 320px; 
+    bottom: 3086px;
+}
+.imgtwentyone:hover{
+    height: 220px;
+    width: 350px;
+    position: relative;
+    left: 320px; 
+    bottom: 3086px;
+    transition: ease-in 0.21s;
+}
+.TwentyOneText{
+    position: relative;
+    left: 320px; 
+    bottom: 3086px;
+}
+.imgtwentytwo{
+    height: 155px;
+    width: 350px;
+    position: relative;
+    left: 610px; 
+    bottom: 3344px;
+}
+.imgtwentytwo:hover{
+    height: 165px;
+    width: 360px;
+    position: relative;
+    left: 610px; 
+    bottom: 3344px;
+    transition: ease-in 0.21s;
+}
+.TwentyTwoText{
+    position: relative;
+    left: 660px; 
+    bottom: 3336px;
+}
+.imgtwentythree{
+    height: 155px;
+    width: 255px;
+    position: relative;
+    left: 940px; 
+    bottom: 3594px;
+}
+.imgtwentythree:hover{
+    height: 165px;
+    width: 265px;
+    position: relative;
+    left: 940px; 
+    bottom: 3594px;
+    transition: ease-in 0.21s;
+}
+.TwentyThreeText{
+    position: relative;
+    left: 940px; 
+    bottom: 3594px;
+}
+.imgtwentyfour{
+    height: 155px;
+    width: 255px;
+    position: relative;
+    left: 40px; 
+    bottom: 3550px;
+}
+.imgtwentyfour:hover{
+    height: 165px;
+    width: 265px;
+    position: relative;
+    left: 40px; 
+    bottom: 3550px;
+    transition: ease-in 0.21s;
+}
+.TwentyFourText{
+    position: relative;
+    left: 40px; 
+    bottom: 3550px;   
+}
+.GllllText{
+    position: relative;
+    left: 40px;
+    bottom: 3550px;
+    font-size: 20px;
+}
+.AllSerius{
+    position: relative;
+    left: 60px;
+    bottom: 3450px;
+}
+.OneSerius{
+    position: relative;
+    left: 60px;
+    bottom: 3400px;
+    font-size: 20px;
+}
+.TwoSerius{
+    position: relative;
+    bottom: 3603px;
+    font-size: 20px;
+    text-align: center;
+}
+.ThreeSerius{
+    position: relative;
+    bottom: 3806px;
+    font-size: 20px;
+    text-align: right;
+    right: 30px;
+}
