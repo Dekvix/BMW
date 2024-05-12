@@ -441,5 +441,241 @@ transition: ease-in 0.21s;
 .FourTenText{
     position: relative;
     left: 345px; 
-    bottom: 1660px;
+    bottom: 1658px;
+}
+.imgfiveten{
+    height: 220px;
+    width: 350px;
+    position: relative;
+    left: 620px; 
+    bottom: 1958px; 
+}
+.imgfiveten:hover{
+    height: 230px;
+    width: 360px;
+    position: relative;
+    left: 620px; 
+    bottom: 1958px; 
+    transition: ease-in 0.21s;
+}
+.FiveTenText{
+    position: relative;
+    left: 620px; 
+    bottom: 1960px;
+}
+.imgsixten{
+    height: 220px;
+    width: 350px;
+    position: relative;
+    left: 930px; 
+    bottom: 2276px;
+}
+.imgsixten:hover{
+    height: 230px;
+    width: 360px;
+    position: relative;
+    left: 930px; 
+    bottom: 2276px;
+    transition: ease-in 0.21s;
+}
+.SixTenText{
+    position: relative;
+    left: 930px; 
+    bottom: 2264px;
+}
+.imgseventen{
+    height: 220px;
+    width: 350px;
+    position: relative;
+    left: 40px; 
+    bottom: 2276px;
+}
+.imgseventen:hover{
+    height: 230px;
+    width: 360px;
+    position: relative;
+    left: 40px; 
+    bottom: 2276px;
+    transition: ease-in 0.21s;
+}
+.SevenTenText{
+    position: relative;
+    left: 40px; 
+    bottom: 2276px;
+}
+.imgeightten{
+    height: 190px;
+    width: 320px;
+    position: relative;
+    left: 320px; 
+    bottom: 2556px;
+}
+.imgeightten:hover{
+    height: 200px;
+    width: 330px;
+    position: relative;
+    left: 320px; 
+    bottom: 2556px;
+    transition: ease-in 0.21s;
+}
+.EightTenText{
+    position: relative;
+    left: 330px; 
+    bottom: 2556px;
+}
+.imgnineten{
+    height: 240px;
+    width: 370px;
+    position: relative;
+    left: 580px; 
+    bottom: 2878px; 
+}
+.imgnineten:hover{
+    height: 250px;
+    width: 380px;
+    position: relative;
+    left: 580px; 
+    bottom: 2878px; 
+    transition: ease-in 0.21s;
+}
+.NineTenText{
+    position: relative;
+    left: 580px; 
+    bottom: 2878px;
+}
+.imgtwenty{
+    height: 140px;
+    width: 240px;
+    position: relative;
+    left: 40px; 
+    bottom: 2800px; 
+}
+.imgtwenty:hover{
+    height: 150px;
+    width: 250px;
+    position: relative;
+    left: 40px; 
+    bottom: 2800px; 
+    transition: ease-in 0.21s;
+}
+.TwentyText{
+    position: relative;
+    left: 40px; 
+    bottom: 2800px;
+}
+.GlllText{
+    position: relative;
+    left: 40px;
+    bottom: 2850px;
+    font-size: 20px;
+}
+.imgtwentyone{
+    height: 210px;
+    width: 340px;
+    position: relative;
+    left: 320px; 
+    bottom: 3086px;
+}
+.imgtwentyone:hover{
+    height: 220px;
+    width: 350px;
+    position: relative;
+    left: 320px; 
+    bottom: 3086px;
+    transition: ease-in 0.21s;
+}
+.TwentyOneText{
+    position: relative;
+    left: 320px; 
+    bottom: 3086px;
+}
+.imgtwentytwo{
+    height: 155px;
+    width: 350px;
+    position: relative;
+    left: 610px; 
+    bottom: 3344px;
+}
+.imgtwentytwo:hover{
+    height: 165px;
+    width: 360px;
+    position: relative;
+    left: 610px; 
+    bottom: 3344px;
+    transition: ease-in 0.21s;
+}
+.TwentyTwoText{
+    position: relative;
+    left: 660px; 
+    bottom: 3336px;
+}
+.imgtwentythree{
+    height: 155px;
+    width: 255px;
+    position: relative;
+    left: 940px; 
+    bottom: 3594px;
+}
+.imgtwentythree:hover{
+    height: 165px;
+    width: 265px;
+    position: relative;
+    left: 940px; 
+    bottom: 3594px;
+    transition: ease-in 0.21s;
+}
+.TwentyThreeText{
+    position: relative;
+    left: 940px; 
+    bottom: 3594px;
+}
+.imgtwentyfour{
+    height: 155px;
+    width: 255px;
+    position: relative;
+    left: 40px; 
+    bottom: 3550px;
+}
+.imgtwentyfour:hover{
+    height: 165px;
+    width: 265px;
+    position: relative;
+    left: 40px; 
+    bottom: 3550px;
+    transition: ease-in 0.21s;
+}
+.TwentyFourText{
+    position: relative;
+    left: 40px; 
+    bottom: 3550px;   
+}
+.GllllText{
+    position: relative;
+    left: 40px;
+    bottom: 3550px;
+    font-size: 20px;
+}
+.AllSerius{
+    position: relative;
+    left: 60px;
+    bottom: 3450px;
+}
+.OneSerius{
+    position: relative;
+    left: 60px;
+    bottom: 3400px;
+    font-size: 20px;
+}
+.TwoSerius{
+    position: relative;
+    bottom: 3603px;
+    font-size: 20px;
+    text-align: center;
+}
+.ThreeSerius{
+    position: relative;
+    bottom: 3806px;
+    font-size: 20px;
+    text-align: right;
+    right: 30px;
 }
