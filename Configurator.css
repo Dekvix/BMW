@@ -265,30 +265,23 @@ position: relative;
 left: 550px;
 bottom:508px ; 
 }
-.M235{
-height: 160px;
-width: 260px;
-position: relative;
-left: 790px;
-bottom: 740px;
-}
 .SixText{
 position: relative;
 top: 3px;
 }
-.imgseven{
- height: 200px;
-width: 310px;
-position: relative;
-left: 40px; 
-bottom: 650px; 
+.imgsix{
+    height: 160px;
+    width: 260px;
+    position: relative;
+    left: 790px;
+    bottom: 740px;
 }
-.imgseven:hover{
+.imgsix:hover{
  height: 210px;
 width: 320px;
 position: relative;
-left: 40px; 
-bottom: 650px; 
+left: 790px; 
+bottom: 740px; 
 transition: ease-in 0.21s;
 }
 .SevenText{
@@ -341,14 +334,14 @@ transition: ease-in 0.21s;
     height: 220px;
     width: 330px;
     position: relative;
-    left: 735px; 
+    left: 790px; 
     bottom: 1155px;
 }
 .imgten:hover{
     height: 230px;
     width: 340px;
     position: relative;
-    left: 735px; 
+    left: 790px; 
     bottom: 1155px;
     transition: ease-in 0.21s;
 }
@@ -358,44 +351,24 @@ transition: ease-in 0.21s;
     position: relative;
 }
 .imgeleven{
-    height: 190px;
-    width: 310px;
-    position: relative;
-    left: 1000px; 
-    bottom: 1430px; 
-}
-.imgeleven:hover{
-    height: 200px;
+    height: 210px;
     width: 320px;
     position: relative;
-    left: 1000px; 
-    bottom: 1430px; 
+    left: 930px; 
+    bottom: 1455px; 
+}
+.imgeleven:hover{
+    height: 220px;
+    width: 330px;
+    position: relative;
+    left: 930px; 
+    bottom: 1455px; 
     transition: ease-in 0.21s;
 }
 .ElevenText{
     position: relative;
     left: 1000px; 
     bottom: 1430px;    
-}
-.imgtwoten{
-    height: 160px;
-    width: 260px;
-    position: relative;
-    left: 40px; 
-    bottom: 1410px;   
-}
-.imgtwoten:hover{
-    height: 170px;
-    width: 270px;
-    position: relative;
-    left: 40px; 
-    bottom: 1410px; 
-    transition: ease-in 0.21s;  
-}
-.TwoTenText{
-    position: relative;
-    left: 40px; 
-    bottom: 1410px;   
 }
 .imgthrten{
     height: 200px;
@@ -570,15 +543,15 @@ transition: ease-in 0.21s;
     font-size: 20px;
 }
 .imgtwentyone{
-    height: 210px;
-    width: 340px;
+    height: 130px;
+    width: 230px;
     position: relative;
     left: 320px; 
     bottom: 3086px;
 }
 .imgtwentyone:hover{
-    height: 220px;
-    width: 350px;
+    height: 140px;
+    width: 240px;
     position: relative;
     left: 320px; 
     bottom: 3086px;
@@ -589,93 +562,8 @@ transition: ease-in 0.21s;
     left: 320px; 
     bottom: 3086px;
 }
-.imgtwentytwo{
-    height: 155px;
-    width: 350px;
-    position: relative;
-    left: 610px; 
-    bottom: 3344px;
-}
-.imgtwentytwo:hover{
-    height: 165px;
-    width: 360px;
-    position: relative;
-    left: 610px; 
-    bottom: 3344px;
-    transition: ease-in 0.21s;
-}
-.TwentyTwoText{
-    position: relative;
-    left: 660px; 
-    bottom: 3336px;
-}
-.imgtwentythree{
-    height: 155px;
-    width: 255px;
-    position: relative;
-    left: 940px; 
-    bottom: 3594px;
-}
-.imgtwentythree:hover{
-    height: 165px;
-    width: 265px;
-    position: relative;
-    left: 940px; 
-    bottom: 3594px;
-    transition: ease-in 0.21s;
-}
-.TwentyThreeText{
-    position: relative;
-    left: 940px; 
-    bottom: 3594px;
-}
-.imgtwentyfour{
-    height: 155px;
-    width: 255px;
-    position: relative;
-    left: 40px; 
-    bottom: 3550px;
-}
-.imgtwentyfour:hover{
-    height: 165px;
-    width: 265px;
-    position: relative;
-    left: 40px; 
-    bottom: 3550px;
-    transition: ease-in 0.21s;
-}
-.TwentyFourText{
-    position: relative;
-    left: 40px; 
-    bottom: 3550px;   
-}
-.GllllText{
-    position: relative;
+.Contact{
     left: 40px;
-    bottom: 3550px;
-    font-size: 20px;
-}
-.AllSerius{
+    bottom: 6000px;
     position: relative;
-    left: 60px;
-    bottom: 3450px;
-}
-.OneSerius{
-    position: relative;
-    left: 60px;
-    bottom: 3400px;
-    font-size: 20px;
-}
-.TwoSerius{
-    position: relative;
-    bottom: 3603px;
-    font-size: 20px;
-    text-align: center;
-}
-.ThreeSerius{
-    position: relative;
-    bottom: 3806px;
-    font-size: 20px;
-    text-align: right;
-    right: 30px;
 }
